@@ -1,4 +1,4 @@
-
+/* ..............first section.............. */
 /* raleway-text */
 
 .raleway-text{
@@ -74,7 +74,33 @@ button{
     align-items: center;
     margin: 50px auto;
 }
+/* ...........second section......... */
 
-
-
-
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.left{
+    width: 517px;
+    height: 49px;
+    text-align: left center;
+}
+.right{
+    width: 403px;
+    height: 328px;
+    margin: 0px 10px;
+    border-radius: 48px;
+}
+.text{
+    font-weight: 400;
+    font-size: 24px;
+    
+}
+.text-0{
+   color: rgb(37, 36, 50);
+    
+}
