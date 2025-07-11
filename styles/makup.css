@@ -87,7 +87,11 @@ section{
 .left{
     width: 517px;
     height: 49px;
-    text-align: left center;
+    justify-content: center;
+}
+.ttt{
+display: flex;
+
 }
 .right{
     width: 403px;
@@ -96,11 +100,41 @@ section{
     border-radius: 48px;
 }
 .text{
-    font-weight: 400;
+    font-weight: 40;
     font-size: 24px;
     
 }
 .text-0{
    color: rgb(37, 36, 50);
     
+}
+/* ..........section 3......... */
+.bg-2{
+   background-color: rgba(77, 71, 255, 0.123);;
+   text-align: center;
+   /* border: 1px solid; */
+max-width: 1140px;
+height: 306px;
+margin: 0 auto;
+
+}
+.bg-3{
+    color: rgb(37, 36, 50);
+    font-weight: 700;
+    font-size: 38px;
+}
+.flax{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.style{
+    font-weight: 700;
+    font-size: 80px;
+
+
+}
+.font{
+ font-weight: 400;
+font-size: 20px;
 }
