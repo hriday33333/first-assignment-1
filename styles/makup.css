@@ -1,0 +1,80 @@
+
+/* raleway-text */
+
+.raleway-text{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url('/Assets/Hero-bg.png');
+    width: 1140;
+    height: 900px;
+}
+/* nav bar css */
+nav{
+/* border: 1px solid; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 50px;
+}
+h1{
+    font-weight: 900;
+    font-size: 34px;
+    color: rgb(78, 71, 255);
+}
+.btn{
+    width: 132px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 16px;
+    background-color: rgb(78, 71, 255);;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
+/* hading contamt */
+.hading{
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    max-width: 905px;
+    margin: 200px auto;
+    color:rgb(37, 36, 50);
+}
+button{
+     background-color: rgb(78, 71, 255);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  display: flex;
+  /* justify-content: center; */
+  margin: o auto;
+  text-align: center;
+}
+.centr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+
+
+
+
