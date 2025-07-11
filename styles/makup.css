@@ -144,3 +144,15 @@ margin: 0 auto;
  font-weight: 400;
 font-size: 20px;
 }
+.space{
+    max-width: 1140px;
+    /* border: 1px solid; */
+    margin: 0 auto;
+}
+.write{
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    padding: 10px;
+    color:rgb(37, 36, 50) ;
+}
