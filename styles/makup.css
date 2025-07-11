@@ -111,6 +111,7 @@ display: flex;
 /* ..........section 3......... */
 .bg-2{
    background-color: rgba(77, 71, 255, 0.123);;
+   border-radius: 10px;
    text-align: center;
    /* border: 1px solid; */
 max-width: 1140px;
@@ -122,10 +123,15 @@ margin: 0 auto;
     color: rgb(37, 36, 50);
     font-weight: 700;
     font-size: 38px;
+    padding: 10px;
+
 }
 .flax{
     display: flex;
     justify-content: space-between;
+    width: 856px;
+    margin: 0 auto;
+    
    
 }
 .style{
